@@ -1,0 +1,13 @@
+data/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+paper/
+presentation/
+Proposal_26K-7808.*
+~$*
+.ipynb_checkpoints/
+paper_Zeeshan2022_PB-DID.pdf
+Research_Based_Project_Fall2026.pdf
+Research_Project_Proposal_Fall2026.pdf
